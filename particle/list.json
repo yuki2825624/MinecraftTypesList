@@ -1,10 +1,9 @@
-[ 
+[
     "minecraft:huge_explosion_emitter",
     "minecraft:large_explosion",
     "minecraft:basic_smoke_particle",
     "minecraft:campfire_smoke_particle",
     "minecraft:campfire_tall_smoke_particle",
-    "minecraft:campfire_smoke_particle",
     "minecraft:explosion_particle",
     "minecraft:cauldron_explosion_emitter",
     "minecraft:egg_destroy_emitter",
@@ -16,7 +15,6 @@
     "minecraft:dust_plume",
     "minecraft:arrow_spell_emitter",
     "minecraft:mobspell_emitter",
-    "minecraft:arrow_spell_emitter",
     "minecraft:magnesium_salts_emitter",
     "minecraft:splash_spell_emitter",
     "minecraft:evoker_spell",
@@ -41,10 +39,8 @@
     "minecraft:portal_reverse_particle",
     "minecraft:basic_flame_particle",
     "minecraft:candle_flame_particle",
-    "minecraft:basic_flame_particle",
     "minecraft:blue_flame_particle",
     "minecraft:colored_flame_particle",
-    "minecraft:blue_flame_particle",
     "minecraft:mobflame_single",
     "minecraft:lava_particle",
     "minecraft:lava_drip_particle",
@@ -64,7 +60,6 @@
     "minecraft:sonic_explosion",
     "minecraft:balloon_gas_particle",
     "minecraft:endrod",
-    "minecraft:balloon_gas_particle",
     "minecraft:basic_crit_particle",
     "minecraft:critical_hit_emitter",
     "minecraft:lab_table_misc_mystical_particle",
@@ -73,7 +68,6 @@
     "minecraft:crop_growth_area_emitter",
     "minecraft:totem_particle",
     "minecraft:totem_manual",
-    "minecraft:totem_particle",
     "minecraft:spore_blossom_ambient_particle",
     "minecraft:spore_blossom_shower_particle",
     "minecraft:honey_drip_particle",
@@ -85,6 +79,5 @@
     "minecraft:soul_particle",
     "minecraft:electric_spark_particle",
     "minecraft:wax_particle",
-    "minecraft:electric_spark_particle",
     "minecraft:cherry_leaves_particle"
 ]
