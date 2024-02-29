@@ -1,2 +1,2 @@
-# PlaySoundTypes
-ID of play sound in minecraft
+# MinecraftTypesList
+List of minecraft types
