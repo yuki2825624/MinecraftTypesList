@@ -1,2 +1,2 @@
-# PlaySoundIds
-ID of "/playsound" in minecraft
+# PlaySoundTypes
+ID of play sound in minecraft
